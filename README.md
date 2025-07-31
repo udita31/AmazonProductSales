@@ -1,4 +1,4 @@
-#📊 Amazon Electronics Sales Analysis
+# Amazon Electronics Sales Analysis
 
 📦 Overview
 This project analyzes an Amazon sales dataset to identify the most selling and in-demand products in the electronics category.
