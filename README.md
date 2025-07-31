@@ -22,19 +22,13 @@ Filtered Scope:
 Only electronics category products are included — surgically extracted from a larger multi-category dataset.
 
 🧾 Columns Used:
-Product
-
-Product Name
-
-Category
-
-Rating Count (proxy for sales)
-
-Actual Price
-
-Discounted Price
-
-Ratings
+->Product
+->Product Name
+->Category
+->Rating Count (proxy for sales)
+->Actual Price
+->Discounted Price
+->Ratings
 
 🧹 Data Preprocessing
 🔍 Extracted brand names from Product Name using Excel magic
@@ -42,8 +36,6 @@ Ratings
 🎯 Filtered down to only electronics products
 
 🧠 Parsed specific product names for cleaner analysis
-
-File Used: Amazon_Electronics_Sales.csv
 
 🎯 Project Goals
 🏆 Identify top-selling, most demanded electronics products
